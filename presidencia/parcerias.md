@@ -1,6 +1,6 @@
 # Parcerias institucionais
 
-A seguir serão abordados os tipos de parceria interessantes para uma EJ e exemplos de parcerias reais que foram realizadas.
+A seguir serão abordados os tipos de parcerias interessantes para uma EJ e exemplos de parcerias reais que foram realizadas.
 
 ## Objetivos
 
@@ -26,17 +26,19 @@ Contratar, networking, vender, gerar impacto, lucrar, inovar, gerar tecnologia, 
 
 ### Terceirização (continuidade/implementação dos projetos): empresas do setor ou consultorias.
 
-#### Exemplos::
+#### Exemplos:
 
 - Comum entre as EJ's de engenharia, elas são terceirizadas para a execução de projetos de empresas seniores, estas fazem o planejamento do projeto e a EJ apenas o executa.
 
 - A Enetec já foi contratada, para executar um projeto de instalações elétricas, por uma empresa sênior que já havia feito todo o estudo e planejamento.
 
+- A Lamparina (design UnB) e a CJR tem um histórico de projetos onde uma terceirizou os serviços da outra.
+
 ### Orientação (acompanhamento/legitimidade do projeto): responsável técnico, pós júnior, empresas do setor e consultorias.
 
 #### Exemplos:
 
-Muitas EJ’s utilizam professores ou pós juniores como orientadores em projetos.
+- Muitas EJ’s utilizam professores ou pós juniores como orientadores em projetos.
 
 - Existem várias formas de estreitar laços com o departamento e atrair o interesse de professores: pode-se aplicar um questionário para saber o que eles pensam sobre a EJ, fazer apresentações em reuniões do colegiado, ou qualquer outra forma de fazer-se visível positivamente.
 
