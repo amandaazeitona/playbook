@@ -12,13 +12,13 @@ Contratar, networking, vender, gerar impacto, lucrar, inovar, gerar tecnologia, 
 ### Qualidade de vida no trabalho: locais de trabalho, desconto em produtos, etc.
 
 
-#### Exemplos
+#### Exemplos:
 
 - A Projetos (Uniceub) fez parceira com um café próximo a universidade, os membros da EJ tinham descontos na compra de produtos, o café pertence a um ex membro da empresa.
 
 ### Ferramentas (softwares, hardwares, espaços físicos ou materiais): universidade, laboratórios, empresas, etc.
 
-#### Exemplos
+#### Exemplos:
 
 - A Enetec (engenharia elétrica UnB) firmou uma parceria com a Casa Thomas Jefferson, com isso os membros da EJ foram autorizados a utilizar o Makerspace para desenvolver diversas atividades, em troca forneceram treinamentos para a comunidade.
 
@@ -26,7 +26,7 @@ Contratar, networking, vender, gerar impacto, lucrar, inovar, gerar tecnologia, 
 
 ### Terceirização (continuidade/implementação dos projetos): empresas do setor ou consultorias.
 
-#### Exemplos
+#### Exemplos::
 
 - Comum entre as EJ's de engenharia, elas são terceirizadas para a execução de projetos de empresas seniores, estas fazem o planejamento do projeto e a EJ apenas o executa.
 
@@ -34,7 +34,7 @@ Contratar, networking, vender, gerar impacto, lucrar, inovar, gerar tecnologia, 
 
 ### Orientação (acompanhamento/legitimidade do projeto): responsável técnico, pós júnior, empresas do setor e consultorias.
 
-#### Exemplos
+#### Exemplos:
 
 Muitas EJ’s utilizam professores ou pós juniores como orientadores em projetos.
 
@@ -42,13 +42,13 @@ Muitas EJ’s utilizam professores ou pós juniores como orientadores em projeto
 
 ### Capacitação (novos conhecimentos e conteúdo para a EJ): consultorias ou empresas de treinamento e cursos.
 
-#### Exemplos
+#### Exemplos:
 
 - Parceria com empresas de intercâmbio.
 
 ### Oportunidades (indicação de projetos): sindicatos patronais, empresas, federações, conselhos e associações do setor, etc.
 
-#### Exemplos
+#### Exemplos:
 
 - Estar presente em eventos para que a empresa seja conhecida é o primeiro passo para atingir esse tipo de instituição.
 
