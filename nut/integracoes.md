@@ -5,3 +5,5 @@
 - Pesquise referências, não deixe de pedir ajuda e use sua criatividade.
 
 - Busque dicas e opiniões com membros de outras EJ’s e membros da Concentro.
+
+- Existem várias referências no Toolkit Imersões da Concentro, um site que eu pessoalmente gostei muito foi o <http://toolbox.hyperisland.com/>, lá encontram-se dinâmicas muito boas.
