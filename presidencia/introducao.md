@@ -3,4 +3,4 @@ Este é o **Playbook da Presidência**. Aqui serão encontradas não só os Proc
 
 ## Sumário
 + [História da Presidência](./historico-gestoes.md)
-+ [Processo de Parceria](./processo-parceria.md)
++ [Parcerias](./parcerias.md)
